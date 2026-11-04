@@ -3,5 +3,5 @@ b = input("cuy chactado")
 c = input("ajedrez")
 
 print("hola cuantos años tienes,tengo",a)
-print("te gusta el ",c,"si muy rico")
-print("juegas al ",c" si muy divertido")
+print("te gusta el ",b,"si muy rico")
+print("juego ",c," yo tambien")
